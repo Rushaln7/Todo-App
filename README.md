@@ -17,8 +17,6 @@ https://github.com/user-attachments/assets/aff00f55-d01f-443d-b38d-133f2d6ce162
 ## Screenshots
 
 ![Home Page](public/screenshots/home.png)
-![Task Added](public/screenshots/task-added.png)
-
 <div align="center">
   <img src="public/screenshots/mobile.png" alt="Mobile View" />
 </div>
